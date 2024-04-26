@@ -28,13 +28,13 @@ API بلغة Laravel:
 ### Screenshots
 
 <p align="center">
-  <img src="https://github.com/pr-mah99/E-Learning-App/blob/main/ScreenShot/1.jpg" width="250" title="hover text">
-  <img src="https://github.com/pr-mah99/E-Learning-App/blob/main/ScreenShot/2.jpg" width="250" alt="accessibility text">
-  <img src="https://github.com/pr-mah99/E-Learning-App/blob/main/ScreenShot/3.jpg" width="250" alt="accessibility text">
-  <img src="https://github.com/pr-mah99/E-Learning-App/blob/main/ScreenShot/4.jpg" width="250" alt="accessibility text">
-  <img src="https://github.com/pr-mah99/E-Learning-App/blob/main/ScreenShot/5.jpg" width="250" alt="accessibility text">
-  <img src="https://github.com/pr-mah99/E-Learning-App/blob/main/ScreenShot/6.jpg" width="250" alt="accessibility text">
-  <img src="https://github.com/pr-mah99/E-Learning-App/blob/main/ScreenShot/7.jpg" width="250" alt="accessibility text">
+  <img src="https://github.com/pr-mah99/BookShop_MobileApp/blob/main/ScreenShot/1.jpg" width="250" title="hover text">
+  <img src="https://github.com/pr-mah99/BookShop_MobileApp/blob/main/ScreenShot/2.jpg" width="250" alt="accessibility text">
+  <img src="https://github.com/pr-mah99/BookShop_MobileApp/blob/main/ScreenShot/3.jpg" width="250" alt="accessibility text">
+  <img src="https://github.com/pr-mah99/BookShop_MobileApp/blob/main/ScreenShot/4.jpg" width="250" alt="accessibility text">
+  <img src="https://github.com/pr-mah99/BookShop_MobileApp/blob/main/ScreenShot/5.jpg" width="250" alt="accessibility text">
+  <img src="https://github.com/pr-mah99/BookShop_MobileApp/blob/main/ScreenShot/6.jpg" width="250" alt="accessibility text">
+  <img src="https://github.com/pr-mah99/BookShop_MobileApp/blob/main/ScreenShot/7.jpg" width="250" alt="accessibility text">
 </p>
 
 ### Task Summary
